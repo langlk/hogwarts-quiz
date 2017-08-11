@@ -1,4 +1,37 @@
+body {
+  font-family: 'Averia Serif Libre', cursive;
+  font-size: 18px;
+  background-color: #473f3f;
+  color: rgb(221, 221, 221);
+}
+
+.jumbotron {
+  font-family: 'Special Elite', cursive;
+  background-image: url("../img/train.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.jumbotron .shaded-area {
+  margin-top: 40px;
+  display: inline-block;
+  padding: 25px;
+  background-color: rgba(124, 115, 107, 0.75);
+}
+
 .luna, .tonks, .neville, .weasleys {
   text-align: center;
   display: none;
+}
+
+button {
+  color: #473f3f;
+}
+
+select {
+  background-color: rgb(221, 221, 221);
+}
+
+.btn {
+  background-color: #a59d9d;
 }
