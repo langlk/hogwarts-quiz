@@ -24,14 +24,15 @@ body {
   display: none;
 }
 
-button {
-  color: #473f3f;
-}
-
 select {
   background-color: rgb(221, 221, 221);
 }
 
 .btn {
+  color: #473f3f;
   background-color: #a59d9d;
+}
+
+.btn:hover {
+  background-color: rgb(221, 221, 221);
 }
