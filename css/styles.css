@@ -10,6 +10,10 @@ img {
   max-width: 500px;
 }
 
+.container {
+  margin-bottom: 50px;
+}
+
 .jumbotron {
   font-family: 'Special Elite', cursive;
   background-image: url("../img/train.jpg");
@@ -22,6 +26,10 @@ img {
   display: inline-block;
   padding: 25px;
   background-color: rgba(124, 115, 107, 0.75);
+}
+
+.jumbotron .container {
+  margin-bottom: 0px;
 }
 
 select {
