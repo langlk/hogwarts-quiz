@@ -5,6 +5,11 @@ body {
   color: rgb(221, 221, 221);
 }
 
+img {
+  width: 100%;
+  max-width: 500px;
+}
+
 .jumbotron {
   font-family: 'Special Elite', cursive;
   background-image: url("../img/train.jpg");
@@ -19,11 +24,6 @@ body {
   background-color: rgba(124, 115, 107, 0.75);
 }
 
-.luna, .tonks, .neville, .weasleys {
-  text-align: center;
-  display: none;
-}
-
 select {
   background-color: rgb(221, 221, 221);
 }
@@ -35,4 +35,9 @@ select {
 
 .btn:hover {
   background-color: rgb(221, 221, 221);
+}
+
+.luna, .tonks, .neville, .weasleys {
+  text-align: center;
+  display: none;
 }
