@@ -10,7 +10,7 @@ _Dating Quiz that matches the user with their Hogwarts soul mate. Uses JavaScrip
 
 ## Setup/Installation Requirements
 
-_View on GitHub pages at [langlk.github.io/portfolio](https://langlk.github.io/portfolio/). To install on your computer follow the steps below:_
+_View on GitHub pages at [langlk.github.io/hogwarts-quiz](https://langlk.github.io/hogwarts-quiz/). To install on your computer follow the steps below:_
 
 * Clone this repository
 * Open index.html in web browser of your choice
